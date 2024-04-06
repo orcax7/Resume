@@ -6,36 +6,41 @@
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
                 },
                 {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
+                    "icon": "images/skills/php.png",
+                    "title": "PHP"
                 },
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
                 }
+                
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/bootstarp.png",
+                    "title": "Bootstarp5"
                 },
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
+                },
+                {
+                    "icon": "images/skills/laravel.png",
+                    "title": "Laravel"
                 },
                 {
                     "icon": "images/skills/nodejs.png",
@@ -51,12 +56,20 @@
                     "title": "Android Studio"
                 },
                 {
+                    "icon": "images/skills/vs.png",
+                    "title": "VS Code"
+                },
+                {
                     "icon": "images/skills/git.png",
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/GitHub Desktop.png",
+                    "title": "GitHub Desktop"
+                },
+                {
+                    "icon": "images/skills/github.png",
+                    "title": "GitHub"
                 }
             ]
     }

@@ -1,19 +1,23 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
+            "title": "Jul 2022 - Now",
+            "cardTitle": "University",
+            "cardSubtitle":"King Mongkut's University of Technology North Bangkok",
+            "cardDetailedText": ""
+            
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Jun 2020 - May 2022",
+            "cardTitle": "High Vocational Certificate",
+            "cardSubtitle":"Phongsawat Technology College",
+            "cardDetailedText":"GPA 3.82"
+        },
+        {
+            "title": "May 2017 - Mar 2020",
+            "cardTitle": "Vocational Certificate",
+            "cardSubtitle":"Phongsawat Technology College",
+            "cardDetailedText":"GPA 3.24 "
         }
     ]
 }
